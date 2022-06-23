@@ -1,5 +1,5 @@
 deployments:
   default:
-    ready_wait: 21
+    ready_wait: 22
     default_pr_comment: false
     port_forwarding: 3000:3000
